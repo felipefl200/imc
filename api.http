@@ -1,0 +1,8 @@
+###
+POST http://localhost:3000/api/imc
+content-type: application/json
+
+{
+    "altura": 1.71,
+    "peso": 79.5
+}
